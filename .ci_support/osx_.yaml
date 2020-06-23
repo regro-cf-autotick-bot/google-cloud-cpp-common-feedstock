@@ -15,7 +15,7 @@ cxx_compiler_version:
 googleapis_cpp:
 - '0.10'
 grpc_cpp:
-- '1.29'
+- '1.30'
 macos_machine:
 - x86_64-apple-darwin13.4.0
 macos_min_version:
