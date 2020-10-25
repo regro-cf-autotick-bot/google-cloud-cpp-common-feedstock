@@ -5,11 +5,9 @@ Home: https://github.com/googleapis/google-cloud-cpp-common
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/google-cloud-cpp-common-feedstock/blob/master/LICENSE.txt)
 
 Summary: Google Cloud C++ client common libraries
-
-
 
 Current build status
 ====================
